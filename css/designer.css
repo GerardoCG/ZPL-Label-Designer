@@ -88,6 +88,10 @@
 	background-image: url(../toolbar_barcode.gif);
 }
 
+.designerToolbarQR {
+	background-image: url(../qr.png);
+}
+
 .designerToolbarRectangle {
 	background-image: url(../toolbar_rectangle.gif);
 }
